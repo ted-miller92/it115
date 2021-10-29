@@ -1,5 +1,24 @@
-*{
+body {
+    width: 66vw;
     margin:0 auto;
-    padding:0;
-    background-color: #eff;
+    background-color:white;
+    /* height:100vh; */
+    color:white;
+    height:1000px;
+    margin:0 auto;
+    text-align:center; 
+}
+html{
+    width:100%;
+    background-color:#ff8058;
+    color:black;
+    color:white;
+    height:100%;
+    margin:0 auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.letters{
+    color:black;
+    font-size:larger;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
